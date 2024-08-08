@@ -1,0 +1,30 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: grey;
+}
+
+p {
+  color:white;
+}
+
+#intro{
+  text-align:center;
+}
+
+h1 {
+  background-color: black;
+  color:orange;
+}
+
+h2 {
+  background-color: black;
+  color:yellow;
+}
+
+.image {
+  width:40%;
+}
